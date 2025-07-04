@@ -1,0 +1,34 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: Red;
+
+}
+
+img {
+    float: right;
+    border-radius: 2em;
+    border-color: black;
+    border: 0.2em solid #555;
+    width: 50%;
+    height: auto;
+}
+
+img:hover {
+    box-shadow: -0.2em 0.2em 0.1em grey;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+ul {
+    font-size: 1.3em;
+}
+
+form {
+    font-size: large;
+}
+
+input {
+    font-size: medium;
+}

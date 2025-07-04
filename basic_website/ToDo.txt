@@ -20,4 +20,67 @@ HTML:
 	footer
 	head
 		title
+
+CSS:
+color
+font-size
+font-family
+	Arial, sans-serif
+link rel="stylesheet" type="text/css" href="styles.css"
+
+selectors
+p		Element selector
+.box		Class selector
+#special	Id selector
+.box a		descendant selector
+a:hover		Hover pseudo class
+
+line-height
+padding
+font-weight
+text-decoration
+color
+	hex
+	rgb
+	rgba, for opacity
+	hsl
+	hsla
+sizes in rem and em and px and percent
+text-align
+custom fonts
+box-sizing
+	border-box
+	content-box
+box-shadow
+overflow
+cursor
+margin
+	auto
+display
+	flex
+flex-wrap: wrap
+gap
+width
+	calc(50%-10px)
+
+
+layout
+display
+	inline
+	block
+	inline-block
+	none
+position
+	relative
+	absolute
+	fixed
+	sticky
+z-index
+float
+.demo::after
+	content: ""
+	display: table
+	clear: both
+	# Modern clearfix
+
 	
