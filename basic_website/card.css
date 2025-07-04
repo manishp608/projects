@@ -1,0 +1,35 @@
+body {
+    margin: 1em auto;
+    width: 50%;
+}
+
+#card {
+    border: 0.2em solid brown;
+    border-radius: 0.1em;
+    padding: 2em 2em;
+}
+
+.heading {
+    border-bottom: 0.2em solid brown;
+    font-size: 2em;
+}
+
+.image {
+    float: right;
+    border: 2px solid aliceblue;
+}
+
+.image:hover {
+    box-shadow: -0.1em 0.1em 5px lightgoldenrodyellow;
+}   
+
+
+.exp {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.about {
+    padding: 2em 0em;
+}

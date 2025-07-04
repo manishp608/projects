@@ -1,0 +1,22 @@
+.star {
+    padding: 0.8em;
+    font-size: 5em;
+    color: rgb(176, 176, 0);
+
+}
+
+main {
+    margin: auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.right {
+    text-decoration: none;
+    color:rgb(176, 176, 0);
+}
+
+.right:hover {
+    color: green;
+}
