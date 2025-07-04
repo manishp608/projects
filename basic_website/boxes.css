@@ -1,0 +1,29 @@
+.box-grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    font-size: 1em;
+    padding: 2em 5em;
+    margin: 1em;
+    border: 0.1em solid grey;
+    border-radius: 0.3em;
+}
+
+.box:hover {
+    background-color: aliceblue;
+    box-shadow: -0.1em 0.1em 5px brown;
+}
+
+.box:active {
+    background-color: azure;
+}
+
+.right:active {
+    background-color: green;
+}
+
+link {
+    text-decoration: none;
+}
