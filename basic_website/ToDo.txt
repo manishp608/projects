@@ -1,3 +1,15 @@
+				! -> to create an html document sample
+				wc3 css file validation
+				specificity calculator
+				coolors
+				web aim -> contrast checker
+				alt+z -> code wrap
+				shift+alt+a -> comment
+				polacode -> for taking coding images
+				liveshare -> like collab
+
+
+
 HTML:
 	main
 	strong
@@ -82,5 +94,95 @@ float
 	display: table
 	clear: both
 	# Modern clearfix
+
+align-items
+justify-content
+flex-wrap
+flex-grow
+flex-shrink
+flex-basis
+
+grid
+display: grid
+grid-template-columns: repeat(2, 1fr)
+	repeat(auto-fit, minmax(250px, 1fr))
+grid-template-areas:
+	"header header header"
+	"main main main"
+	"footer footer footer"
+min-height: 100vh
+30:43 in the video https://www.youtube.com/watch?v=QeslNHmTObk
+justify-items
+align-items
+if something like
+	class="grid-item special"
+	.grid-item.special
+justify-self
+justify-content
+
+
+form elements do not inherit font
+do this
+	button, input, textarea, select {
+	font: inherit;
+}
+color: purple!important
+	DONT USE IT
+line-height
+ch -> for characters
+box-sizing: border-box
+* -> for all elements
+margin depends on font
+rem -> based on browser
+em -> relative to parent
+outline
+outline-offset
+text-transform
+text-indent
+letter-spacing
+word-spacing
+
+css variables
+	start with --
+	use var(name) to use it elsewhere
+
+name::before
+name::after
+transition
+content: ''
+font-size
+	clamp
+transform
+	translate()
+
+
+keyframes
+animation: spin 1s linear infinite
+@keyframes spin {
+from{
+	transform: rotate(0deg);
+}
+to {
+	transform: rotate(360deg);
+}
+}
+can use percentages instead of from, to
+pseudoclasses
+article tag html
+
+start
+	tag in html like class gives which number to start from in list
+	reversed
+list-style: square url()
+	here square is fallback if image not loaded
+can add like this square url() inside
+	shorthand
+li:nth-child(2)
+::marker -> for the points
+	content -> add stuff
+value property of li
+
+if used floats display: flow-root
+
 
 	

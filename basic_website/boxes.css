@@ -27,3 +27,9 @@
 link {
     text-decoration: none;
 }
+
+.box4:hover {
+    background-image: url("mowgli.png");
+    background-size: cover;
+    background-position: center;
+}
