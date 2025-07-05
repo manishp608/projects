@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.search {
+    /* display: flex;
+    justify-content: right;
+    align-items: center; */
+    margin: 5rem auto;
+    width: 500px;
+    height: 40px;
+    background-color: #4d5156;
+    border-radius: 20px;
+    text-align:right;
+}
+
+img {
+    height: 100%;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
