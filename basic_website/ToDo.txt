@@ -7,6 +7,7 @@
 				shift+alt+a -> comment
 				polacode -> for taking coding images
 				liveshare -> like collab
+				unicode-table.com
 
 
 
@@ -183,6 +184,15 @@ li:nth-child(2)
 value property of li
 
 if used floats display: flow-root
+
+
+column-count
+column-width
+column-rule
+column-gap
+break-inside: avoid
+column-span: all
+scroll-behaviour: smooth
 
 
 	

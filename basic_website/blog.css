@@ -1,0 +1,33 @@
+
+
+.whole {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    max-width: 760px;
+}
+
+img {
+    width: 100%;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+
+.top {
+    grid-column: 1 / 3;
+}
+
+.words {
+    color: aliceblue;
+    background-color: hsl(0, 0%, 22%);
+    text-align: left;
+    
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
+
+p {
+    margin: 0 1rem;
+    font-size: 2rem;
+}
