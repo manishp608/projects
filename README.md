@@ -5,4 +5,5 @@ For virtual environment in PowerShell
 
 - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 - ..\virt\Scripts\Activate.ps1
+- .. is my directory, change accordingly
 
