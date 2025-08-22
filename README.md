@@ -7,3 +7,4 @@ For virtual environment in PowerShell
 - ..\virt\Scripts\Activate.ps1
 - .. is my directory, change accordingly
 
+
