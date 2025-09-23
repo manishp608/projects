@@ -46,7 +46,7 @@ for sen, cat in train_df.values:
     for word in sen.split():
         word_set.add(word)
         wfreq[cat][word] = wfreq[cat].get(word, 0) + 1
-    doc_count = len(train_df)
+doc_count = len(train_df)
 
 p = {x: counts[x] / doc_count for x in [0, 1]}
 total_words = len(word_set)
