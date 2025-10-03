@@ -45,6 +45,7 @@
             time: currentTime,
             desc: "Bookmark at " + getTime(currentTime),
         };
+        console.log(newBookmark)
 
         currentVideoBookmarks = await fetchBookmarks();
 
