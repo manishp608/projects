@@ -5,3 +5,6 @@ These are some of the ML supervised algorithms made from scratch
 - Multi variate log reg is completed
 - KNN
 - Naive Bayes and Word Classifier
+
+prac2.py
+- Contains DBSCAN, Kmeans1
