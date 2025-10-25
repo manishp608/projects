@@ -8,3 +8,6 @@ These are some of the ML supervised algorithms made from scratch
 
 prac2.py
 - Contains DBSCAN, Kmeans1
+- Kmeans2 with Elbow method
+- SVM Linear
+- SVM with kernels, RBF and Polynomial
