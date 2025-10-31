@@ -11,3 +11,5 @@ prac2.py
 - Kmeans2 with Elbow method
 - SVM Linear
 - SVM with kernels, RBF and Polynomial
+
+- There are just testing code. Can be made better.
