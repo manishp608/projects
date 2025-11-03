@@ -1,7 +1,6 @@
 # Ignore Python virtual environment
 virt/
 
-# Optional: Ignore common Python files
 __pycache__/
 *.pyc
 *.pyo
